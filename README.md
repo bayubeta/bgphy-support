@@ -2,6 +2,6 @@ Supporting files to the article "Bayesian inference of mixed Gaussian phylogenet
 by Brahmantio, Bartoszek, and Yapar (2024), <https://arxiv.org/abs/2410.11548>.
 
 This repository contains the following R scripts:
-- `param_est.R`: contains code for parameters estimation experiment.
-- `model_eval.R`: contains code for model evaluation experiment.
+- `param_est.R`: contains code for parameters estimation simulation study.
+- `model_eval.R`: contains code for model evaluation simulation study.
 - `antlers.R`: contains code for application to the antlers dataset.
