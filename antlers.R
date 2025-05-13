@@ -1,6 +1,10 @@
 library(bgphy)
 library(ape)
 
+# code for application to the antlers dataset,
+# for the paper Bayesian inference of mixed Gaussian phylogenetic models (2025)
+# by Brahmantio, Bartoszek, Yapar.
+
 # read data
 dat <- readxl::read_xlsx("antler_data.xlsx")
 # read tree
