@@ -5,3 +5,4 @@ This repository contains the following R scripts:
 - `param_est.R`: contains code for parameters estimation simulation study.
 - `model_eval.R`: contains code for model evaluation simulation study.
 - `antlers.R`: contains code for application to the antlers dataset.
+- `time_compare.R`: contains code for comparing running time of `bgphy`, `PCMFit`, and `bayou`.
